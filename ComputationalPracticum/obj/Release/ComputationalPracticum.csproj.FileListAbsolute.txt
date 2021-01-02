@@ -1,0 +1,11 @@
+C:\Users\79374\source\repos\ComputationalPracticum\ComputationalPracticum\bin\Release\ComputationalPracticum.exe.config
+C:\Users\79374\source\repos\ComputationalPracticum\ComputationalPracticum\bin\Release\ComputationalPracticum.exe
+C:\Users\79374\source\repos\ComputationalPracticum\ComputationalPracticum\bin\Release\ComputationalPracticum.pdb
+C:\Users\79374\source\repos\ComputationalPracticum\ComputationalPracticum\obj\Release\ComputationalPracticum.csprojAssemblyReference.cache
+C:\Users\79374\source\repos\ComputationalPracticum\ComputationalPracticum\obj\Release\ComputationalPracticum.Form1.resources
+C:\Users\79374\source\repos\ComputationalPracticum\ComputationalPracticum\obj\Release\ComputationalPracticum.Form2.resources
+C:\Users\79374\source\repos\ComputationalPracticum\ComputationalPracticum\obj\Release\ComputationalPracticum.Properties.Resources.resources
+C:\Users\79374\source\repos\ComputationalPracticum\ComputationalPracticum\obj\Release\ComputationalPracticum.csproj.GenerateResource.cache
+C:\Users\79374\source\repos\ComputationalPracticum\ComputationalPracticum\obj\Release\ComputationalPracticum.csproj.CoreCompileInputs.cache
+C:\Users\79374\source\repos\ComputationalPracticum\ComputationalPracticum\obj\Release\ComputationalPracticum.exe
+C:\Users\79374\source\repos\ComputationalPracticum\ComputationalPracticum\obj\Release\ComputationalPracticum.pdb
